@@ -1,9 +1,9 @@
-## Hi there 👋, This is Divya Sri Sai Bojanki
+# Hi there 👋, This is Divya Sri Sai Bojanki
 
 a Master's student from **Arizona State University** graduated in May 2025 with a strong foundation in Software enginering. I am a passionate and results-driven Full-Stack Developer with a strong foundation in JavaScript, React, SQL, and front-end technologies. With a Master's degree in Computer Software Engineering and hands-on experience in web development, data visualization, I
 specialize in building interactive and user-friendly applications.
 
-# Experience:
+## Experience:
 
 
 <!--
