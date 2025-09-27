@@ -7,9 +7,13 @@ specialize in building interactive and user-friendly applications.
 * TA and RA Application Filtering System
 * RTD Support, Knowledge Enterprise, Arizona State University
 * Hitachi Vantara, Intern
-* IEEE website 
+* IEEE website
+
+### Let's Connect : https://www.linkedin.com/in/divyabojanki/
 
 <!--
+Portfolio website:
+
 Currently working on improving my personal porfolio.
 
 //Experience - projects and experience
