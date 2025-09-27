@@ -9,7 +9,7 @@ specialize in building interactive and user-friendly applications.
 * Hitachi Vantara, Intern
 * IEEE website
 
-### Let's Connect : 
+### Let's Connect 
 * https://www.linkedin.com/in/divyabojanki/
 * https://github.com/divyasrisai30
 
