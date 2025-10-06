@@ -7,6 +7,7 @@ specialize in building interactive and user-friendly applications.
 * TA and RA Application Filtering System
 * RTD Support, Knowledge Enterprise, Arizona State University
 * Hitachi Vantara, Intern
+* Community Connect
 * IEEE website
 
 ### Let's Connect 
