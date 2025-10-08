@@ -59,7 +59,7 @@ specialize in building interactive and user-friendly applications.
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97"
     alt="Most Used Languages" 
-    style="width:50vw; min-width:300px; max-width:600px;" 
+    style="width:40vw; min-width:300px; max-width:600px;" 
     />
 </div>
 
