@@ -64,6 +64,13 @@ specialize in building interactive and user-friendly applications.
 
 
 <!-- ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30&hide=contribs,prs) -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    width="70%" 
+  />
+</div>
 
 <div align="center">
   <div>
@@ -72,8 +79,6 @@ specialize in building interactive and user-friendly applications.
       alt="Most Used Languages" 
       <!-- width="45%" -->
     /></div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=tokyonight&hide_border=true&ring=79ff97&fire=ff6b6b&currStreakLabel=ffffff" />
-
     <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night&v=2&count_private=true"
     />
