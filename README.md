@@ -61,7 +61,7 @@ specialize in building interactive and user-friendly applications.
     alt="Most Used Languages" 
     />
     <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=dracula"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night"
     />
 </div>
 
