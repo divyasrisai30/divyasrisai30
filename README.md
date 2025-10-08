@@ -38,12 +38,11 @@ specialize in building interactive and user-friendly applications.
 
   <img alt="Static Badge" src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&color=black">
 
-
-  
-
-
 </p>
 </p>
+
+
+[!Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30)](https://github.com/divyasrisai30/github-readme-stats)
 
 <!--
 Portfolio website:
