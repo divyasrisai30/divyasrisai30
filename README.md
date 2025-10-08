@@ -20,9 +20,9 @@ specialize in building interactive and user-friendly applications.
 <p>
   <p align="center">
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />      
+  <img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5">
+ <img alt="Static Badge" src="https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=%23663399">
+<img alt="Static Badge" src="https://img.shields.io/badge/sass-logo?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23f77ebb">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Spring%20Boot-0B3D2E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
