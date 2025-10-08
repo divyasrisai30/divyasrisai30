@@ -13,7 +13,7 @@ Links:
 
 
 <div align="center">
-  <h2>Hi there 👋, This is Divya Sri Sai Bojanki</h2>
+  <h1>Hi there 👋, This is Divya Sri Sai Bojanki</h1>
 </div>
 
 
