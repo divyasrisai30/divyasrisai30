@@ -12,7 +12,6 @@ Links:
 -->
 
 
-# 
 <div align="center">
   <h2>Hi there 👋, This is Divya Sri Sai Bojanki</h2>
 </div>
