@@ -60,7 +60,11 @@ specialize in building interactive and user-friendly applications.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97"
     alt="Most Used Languages" 
     />
+
+  
 </div>
+
+[![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
