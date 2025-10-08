@@ -65,11 +65,7 @@ specialize in building interactive and user-friendly applications.
 
 <!-- ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30&hide=contribs,prs) -->
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" 
-    alt="GitHub Streak Stats" 
-    width="70%" 
-  />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
