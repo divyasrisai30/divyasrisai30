@@ -15,9 +15,14 @@ specialize in building interactive and user-friendly applications.
 * https://github.com/divyasrisai30
 * Porfolio: https://divya-bojanki.netlify.app/
 
+<!-- https://devicon.dev/  -->
 ##My Tech Stack:
 <p>
   <p align="center">
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />      
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Spring%20Boot-0B3D2E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
