@@ -24,11 +24,11 @@ specialize in building interactive and user-friendly applications.
  <img alt="Static Badge" src="https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=%23663399">
 <img alt="Static Badge" src="https://img.shields.io/badge/sass-logo?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23f77ebb">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-0B3D2E?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <!-- <img src="https://img.shields.io/badge/Go-0A0F1C?style=for-the-badge&logo=go&logoColor=00ADD8" /> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/js-logo?style=for-thebadge&logo=javascript&logoColor=%23f0e48b&labelColor=black&color=%23f0e48b">
   <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&color=%237dabd1">
+
 </p>
 </p>
 
