@@ -44,7 +44,7 @@ specialize in building interactive and user-friendly applications.
   <img alt="Static Badge" src="https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=%23663399">
   <img alt="Static Badge" src="https://img.shields.io/badge/sass-logo?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23f77ebb">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/angular-logo?style=for-the-badge&logo=angular&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/angular-logo?style=for-the-badge&logo=angular&color=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=javascript&color=black">
  
 
@@ -66,10 +66,12 @@ specialize in building interactive and user-friendly applications.
 <!-- ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30&hide=contribs,prs) -->
 
 <div align="center">
+  <div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=dark" alt="GitHub Streak" /></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97&v=2&count_private=true"
     alt="Most Used Languages" 
-    />
+    /></div>
     <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night&v=2&count_private=true"
     />
