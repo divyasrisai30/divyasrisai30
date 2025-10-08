@@ -9,6 +9,9 @@ Links:
     https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
   Graph:
     https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file
+
+    * add &v=2 to update the stats every 24hrs
+    * count_private=true to even count the private
 -->
 
 
@@ -64,11 +67,11 @@ specialize in building interactive and user-friendly applications.
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97&v=2&count_private=true"
     alt="Most Used Languages" 
     />
     <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night&v=2&count_private=true"
     />
 </div>
 
