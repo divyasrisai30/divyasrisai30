@@ -55,9 +55,8 @@ specialize in building interactive and user-friendly applications.
 
 <!-- ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30&hide=contribs,prs) -->
 
-<p align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact)
-</p>
+
 
 
 <!--
