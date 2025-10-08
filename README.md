@@ -42,8 +42,7 @@ specialize in building interactive and user-friendly applications.
 </p>
 
 
-[!Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30)](https://github.com/divyasrisai30/github-readme-stats)
-
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyasrisai30&hide=contribs,prs)
 <!--
 Portfolio website:
 
