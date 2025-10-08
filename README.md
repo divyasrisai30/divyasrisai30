@@ -67,7 +67,7 @@ specialize in building interactive and user-friendly applications.
 
 <div align="center">
   <div>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=dark" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=dark" alt="GitHub Streak" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97&v=2&count_private=true"
     alt="Most Used Languages" 
