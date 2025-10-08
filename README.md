@@ -16,13 +16,12 @@ specialize in building interactive and user-friendly applications.
 * Porfolio: https://divya-bojanki.netlify.app/
 
 <!-- https://devicon.dev/  -->
-##My Tech Stack:
+## My Tech Stack:
 <p>
   <p align="center">
-    
   <img alt="Static Badge" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5">
- <img alt="Static Badge" src="https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=%23663399">
-<img alt="Static Badge" src="https://img.shields.io/badge/sass-logo?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23f77ebb">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-logo?style=for-the-badge&logo=css&logoColor=%23663399">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sass-logo?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=%23f77ebb">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Static Badge" src="https://img.shields.io/badge/js-logo?style=for-thebadge&logo=javascript&logoColor=%23f0e48b&labelColor=black&color=%23f0e48b">
   <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
