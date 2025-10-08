@@ -67,13 +67,13 @@ specialize in building interactive and user-friendly applications.
 
 <div align="center">
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=tokyonight&hide_border=true&ring=79ff97&fire=ff6b6b&currStreakLabel=ffffff" 
-      width='45%'/>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasrisai30&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=79ff97&v=2&count_private=true"
       alt="Most Used Languages" 
-      width="45%"
+      <!-- width="45%" -->
     /></div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyasrisai30&theme=tokyonight&hide_border=true&ring=79ff97&fire=ff6b6b&currStreakLabel=ffffff" />
+
     <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=divyasrisai30&theme=tokyo-night&v=2&count_private=true"
     />
