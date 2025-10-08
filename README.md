@@ -32,7 +32,6 @@ specialize in building interactive and user-friendly applications.
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img alt="Static Badge" src="https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&color=%237dabd1">
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/js-logo?style=for-the-badge&logo=javascript&color=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-logo?style=for-the-badge&logo=postgresql">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/d3-logo?style=for-the-badge&logo=D3&color=black">
